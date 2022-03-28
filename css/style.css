@@ -1,0 +1,91 @@
+/*Main index.html page*/
+body {
+  background-color: #c2b593;
+  font-family: Roboto Slab;
+}
+
+h1 {
+  font-size: 1.5rem;
+}
+
+form {
+  margin-top: 3rem;
+}
+
+input {
+  text-align: center;
+  border: none;
+  background-color: #b4b097;
+  height: 2.5rem;
+  border-bottom: 2px solid black;
+}
+
+span {
+  margin: auto 2rem;
+}
+
+span input {
+  width: 7rem;
+  margin-top: 3rem;
+}
+
+.header-div {
+  background-color: #b8a574;
+  margin: 3rem 10rem 0 10rem;
+  height: auto;
+  width: auto;
+}
+
+.form-1 {
+  margin-top: 5rem;
+  margin: 5rem 10rem auto;
+}
+
+.enter-details {
+  font-weight: 400;
+  padding-top: 1.5rem;
+  padding-bottom: 1.5rem;
+  font-size: 1.2rem;
+}
+
+.form-head {
+  margin-top: 3rem;
+}
+
+.amount {
+  width: 20rem;
+  margin-top: 2rem;
+}
+
+.predict {
+  background-color: black;
+  color: white;
+  border: none;
+  padding: 0.5rem 6rem;
+  border-radius: 0.1rem;
+  margin: 4rem auto;
+}
+
+/*Login page*/
+.login-page {
+  font-family: Montserrat;
+}
+
+.logo {
+  height: 15rem;
+  width: auto;
+  margin-top: 1rem;
+}
+
+.cred {
+  text-align: left;
+  padding-left: 1rem;
+  background-color: #c2b593;
+  border: 1px solid black;
+  margin: 3rem auto 0;
+  width: 25rem;
+}
+
+.submit {
+  margin-bottom: 1rem;
+}
